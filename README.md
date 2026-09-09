@@ -1,3 +1,3 @@
 # HelloWorld-github.io
 
-# Welcome to my World
+Welcome to my World
